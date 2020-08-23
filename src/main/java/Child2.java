@@ -1,3 +1,3 @@
 public class Child2 {
-    String version = "Child2 v4";
+    String version = "Child2 v5";
 }
